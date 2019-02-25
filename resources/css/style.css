@@ -1,5 +1,5 @@
 body{
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   text-align: center;
 }
 .navlinks,
@@ -12,6 +12,7 @@ body{
   }
   .footlinks{
     font-size: 11px;
+
   }
 .Header{
   background-image: url("../images/the-flatiron-building.png");
@@ -36,9 +37,7 @@ body{
 p{
 font-size: 14px;
 }
-footer{
-  display: inline;
-}
+
 .footer{
   text-align: left;
   background-color: dimgray;
